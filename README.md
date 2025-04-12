@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📚 I’m interested in AI (NLP, computer vision), scalable systems design, and cloud architecture
+- 📚 I’m interested in AI (NLP, computer vision), scalable distributed systems, and cloud architecture
 - 🔭 I’m currently working on applications for model quantization for edge devices
 - 📫 How to reach me: ishaanpoojari@gmail.com
 <!--
